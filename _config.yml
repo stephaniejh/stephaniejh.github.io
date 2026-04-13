@@ -24,13 +24,13 @@ repository               : "stephaniejh/stephaniejh.github.io"   # Orig. - "acad
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Stephanie J. Huang"
+  name             : "Stephanie Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Neuroscience"
-  location         : "Wellington, New Zealand"
   employer         : "Victoria University of Wellington"
+  location         : "Wellington, New Zealand"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5239-0392"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
