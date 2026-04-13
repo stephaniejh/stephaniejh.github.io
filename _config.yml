@@ -23,12 +23,12 @@ repository               : "stephaniejh/stephaniejh.github.io"   # Orig. - "acad
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "happy_neuron_crop.png" # in images folder! 
   name             : "Stephanie Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Neuroscience"
-  employer         : "Victoria University of Wellington"
   location         : "Wellington, New Zealand"
+  employer         : "Victoria University of Wellington"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "@stephjhuang.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
