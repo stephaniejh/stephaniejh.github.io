@@ -10,4 +10,4 @@ paperurl: 'https://github.com/stephaniejh/posters'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-
+https://github.com/stephaniejh/posters
