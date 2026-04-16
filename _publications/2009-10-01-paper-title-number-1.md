@@ -3,7 +3,7 @@ title: "Impaired perception of Mooney faces in developmental prosopagnosia"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Despite much research, the mechanisms underlying face perception deficits in developmental prosopagnosia (DP) remain unclear. Here we address this issue using Mooney faces – two-tone, ambiguous stimuli requiring holistic and top-down processing due to their minimal explicit facial cues. We conducted two experiments testing DP participants' ability to perceive faces using sensitive Mooney tasks...'
+excerpt: 'Despite much research, the mechanisms underlying face perception deficits in developmental prosopagnosia (DP) remain unclear. Here we address this issue using Mooney faces – two-tone, ambiguous stimuli requiring holistic and top-down processing due to their minimal explicit facial cues...'
 date: 2026-01-01
 venue: 'Cognition'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
