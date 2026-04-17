@@ -1,6 +1,6 @@
 ---
 title: "ImageJ LUTs"
-excerpt: "Custom-made ImageJ LUTs<br/><img src='/images/portfolio-github-LUTs-solarized-SJH-b2w-2024.png'>"
+excerpt: "Custom-made ImageJ LUTs<br/><br/><img src='/images/portfolio-github-LUTs-solarized-SJH-b2w-2024.png'>"
 collection: portfolio
 ---
 
