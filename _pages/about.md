@@ -11,8 +11,6 @@ redirect_from:
   #caption: "test caption"
 ---
 
-
-#![Granule Cells in the Hippocampus](/images/StephanieDesvHip10x2x13ADVKTZPOCY1250x400.png){: .align-right width="750px"}
 Kia ora, I’m Stephanie! I am a final year PhD student at VUW studying neuroscience. My research looks at how the environment we grow up in shapes our brains. Specifically, I examine how the structure and connectivity of neurons are affected by differences in environmental complexity and how the underlying molecular composition is altered using techniques such as confocal microscopy and mass spectrometry-based proteomics.
 
 
