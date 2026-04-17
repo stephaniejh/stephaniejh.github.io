@@ -2,6 +2,7 @@
 title: "ImageJ LUTs"
 excerpt: "Custom-made ImageJ LUTs<br/><br/><img src='/images/portfolio-github-LUTs-solarized-SJH-b2w-2024.png'>"
 collection: portfolio
+permalink: /portfolio/portfolio-1
 ---
 
 # [Custom-made ImageJ LUTs](https://github.com/stephaniejh/LUTs)
