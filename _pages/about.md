@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: /assets/images/StephanieDesvHip10x2x13ADVfastnonrdepthcodeds4KTZPOCYb&cad2400x600.png
+  image: /assets/images/StephanieDesvHip10x2x13ADVKTZPOCY1250x400.png
   caption: "test caption"
 ---
 
