@@ -256,7 +256,8 @@ defaults:
       layout: single
       author_profile: true
       header: 
-        overlay_image: headerdesvhip10xktzpocy2200x600.jpg
+        #overlay_image: headerdesvhip10xktzpocy2200x600.jpg
+        image: headerdesvhip10xktzpocy2200x600.jpg
         caption: "Granule Cells in the Hippocampus (depth coded KTZ POCY LUT)"
   # _teaching
   - scope:
